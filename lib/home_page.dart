@@ -49,28 +49,4 @@ class HomePage extends StatelessWidget {
 
 
 
-// class HomePage extends StatelessWidget {
-//   const HomePage({super.key});
-//
-//   @override
-//   Widget build(BuildContext context) {
-//     return Scaffold(
-//       body: SingleChildScrollView(
-//         child: Column(
-//           children: [
-//             Navbar(),
-//             HeroSection(),
-//             FeaturesSection(),
-//             TrustedCompaniesScroll(),
-//             ContactSection(),
-//             Footer(),
-//
-//
-//             // Add other sections here later
-//           ],
-//         ),
-//       ),
-//     );
-//   }
-// }
-//
+
